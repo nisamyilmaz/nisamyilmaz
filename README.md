@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nisamyilmaz
 - 👀 I’m interested in data science, healthcare
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on new project for beginners
 - 📫 How to reach me nisayilmazphd@gmail.com
 
